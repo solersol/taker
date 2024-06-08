@@ -123,7 +123,7 @@ p {
 
 /* model */
 .modal-content {
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .modal-title {
@@ -161,7 +161,7 @@ p {
 }
 
 .dropboxx2 {
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .close {
@@ -185,7 +185,7 @@ p {
     position: fixed;
     width: 100%;
     height: 100%;
-    background: #68984c;
+    background: #c65cf7;
     z-index: 9999999;
     top: 0;
     left: 0;
@@ -377,7 +377,7 @@ p {
 }
 
 .backtotop i {
-    color: #68984c;
+    color: #c65cf7;
     text-align: center;
     font-size: 25px;
     line-height: 65px;
@@ -386,7 +386,7 @@ p {
     -webkit-box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     border-radius: 50%;
-    background: #49c100;
+    background: #8601c3;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
 }
@@ -443,7 +443,7 @@ p {
 }
 
 .bor {
-    background: #49c100;
+    background: #8601c3;
     padding: 10px 25px !important;
     position: relative;
     border-radius: 3px;
@@ -483,11 +483,11 @@ p {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .navbar-light .navbar-brand {
@@ -501,19 +501,19 @@ p {
 }
 
 .navbar-light .navbar-brand b {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .navbar-light .navbar-brand:focus {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .navbar-light .navbar-brand:hover {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .nav-bg {
-    background: #49c100 !important;
+    background: #8601c3 !important;
     padding: 25px 0;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
@@ -532,11 +532,11 @@ p {
 }
 
 .nav-bg .bor {
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .nav-bg .bor:after {
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .nav-bg .bor:hover {
@@ -591,7 +591,7 @@ p {
 .banner-txt h3 {
     font-size: 46px;
     font-family: pb;
-    color: #ffed2a;
+    color: #ffffff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -599,7 +599,7 @@ p {
 .banner-txt h2{
     font-size: 38px;
     font-family: pb;
-    color: #ffed2a;
+    color: #ffffff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -607,7 +607,7 @@ p {
 .banner-txt h1{
     font-size: 38px;
     font-family: pb;
-    color: #ffed2a;
+    color: #ffffff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -630,7 +630,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #49c100;
+    background: #8601c3;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -648,7 +648,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -668,7 +668,7 @@ p {
     right: 0;
     width: 170px;
     height: 140px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -683,7 +683,7 @@ p {
     right: 0;
     width: 170px;
     height: 140px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -703,7 +703,7 @@ p {
 }
 
 .over-item {
-    background: #49c100;
+    background: #8601c3;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     padding: 35px 31px;
@@ -738,7 +738,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #68984c;
+    background: #c65cf7;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -768,7 +768,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #68984c;
+    background: #c65cf7;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -795,7 +795,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
 }
 
@@ -819,7 +819,7 @@ p {
     height: 10px;
     border-radius: 50%;
     width: 10px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
 }
 
@@ -847,7 +847,7 @@ p {
 }
 
 .header-text h3 span {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .over-i {
@@ -858,7 +858,7 @@ p {
     line-height: 60px;
     border-radius: 50%;
     text-align: center;
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .over-item h3 {
@@ -880,7 +880,7 @@ p {
 }
 
 .over-btn a {
-    color: #68984c;
+    color: #c65cf7;
     font-size: 17px;
     font-family: pb;
 }
@@ -939,7 +939,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #49c100;
+    border: 25px solid #8601c3;
     z-index: -1;
     border-radius: 50%;
 }
@@ -951,7 +951,7 @@ over-btn a i {
     right: -55px;
     width: 120px;
     height: 120px;
-    border: 25px solid #49c100;
+    border: 25px solid #8601c3;
     z-index: -1;
     -webkit-transform: rotate(35deg);
     -ms-transform: rotate(35deg);
@@ -965,7 +965,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #49c100;
+    border: 25px solid #8601c3;
     z-index: -1;
     border-radius: 50%;
 }
@@ -987,7 +987,7 @@ over-btn a i {
 .separet-span {
     font-family: pr;
     font-size: 19px;
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .about-txt {
@@ -1015,7 +1015,7 @@ over-btn a i {
 
 .about-txt a {
     padding: 14px 20px;
-    background: #68984c;
+    background: #c65cf7;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1033,7 +1033,7 @@ over-btn a i {
     content: '';
     top: 10px;
     left: 0;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1054,7 +1054,7 @@ over-btn a i {
 }
 
 .progress-bar {
-    background: #68984c;
+    background: #c65cf7;
 }
 
 .progress {
@@ -1071,7 +1071,7 @@ over-btn a i {
 
 .counter-1 h5 {
     font-size: 18px;
-    color: #68984c;
+    color: #c65cf7;
     margin-top: -56px;
     margin-left: 28px;
     padding-bottom: 38px;
@@ -1136,7 +1136,7 @@ over-btn a i {
 }
 
 .product-txt span {
-    color: #68984c;
+    color: #c65cf7;
     font-family: pr;
     font-size: 18px;
 }
@@ -1162,7 +1162,7 @@ over-btn a i {
 
 .product-txt a {
     padding: 14px 20px;
-    background: #68984c;
+    background: #c65cf7;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1181,7 +1181,7 @@ over-btn a i {
 }
 
 .pro-img img {
-    border: 5px solid #68984c;
+    border: 5px solid #c65cf7;
     border-radius: 50%;
     display: inline-block;
 }
@@ -1194,7 +1194,7 @@ over-btn a i {
 }
 
 .product-slider a {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .stars {
@@ -1239,7 +1239,7 @@ over-btn a i {
     left: -25px;
     width: 170px;
     height: 140px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -1254,7 +1254,7 @@ over-btn a i {
     left: -25px;
     width: 170px;
     height: 140px;
-    background: #68984c;
+    background: #c65cf7;
     z-index: -1;
     -webkit-clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
     clip-path: polygon(34% 32%, 64% 46%, 100% 31%, 100% 55%, 65% 70%, 33% 56%, 0 61%, 0 39%);
@@ -1268,7 +1268,7 @@ over-btn a i {
 
 .team-item img {
     border-radius: 30% 84% 28% 76% / 87% 23% 69% 29%;
-    border: 6px solid #68984c;
+    border: 6px solid #c65cf7;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     -webkit-transition: all linear .3s;
@@ -1298,13 +1298,13 @@ over-btn a i {
 .team-item a {
     font-family: pb;
     font-size: 16px;
-    color: #68984c;
+    color: #c65cf7;
 
 }
 
 .team-btn a {
     padding: 14px 20px;
-    background: #68984c;
+    background: #c65cf7;
     color: #fff;
     font-size: 18px;
     font-family: pb;
@@ -1343,7 +1343,7 @@ over-btn a i {
 }
 
 .gold-bg {
-    border: 2px solid #68984c;
+    border: 2px solid #c65cf7;
 }
 
 .price-table h4 {
@@ -1356,7 +1356,7 @@ over-btn a i {
 
 .price-table sub {
     font-family: pr;
-    color: #68984c;
+    color: #c65cf7;
     font-size: 16px;
 }
 
@@ -1368,7 +1368,7 @@ over-btn a i {
 }
 
 .price-table p i {
-    color: #68984c;
+    color: #c65cf7;
     font-size: 18px;
     padding-right: 4px;
 }
@@ -1377,7 +1377,7 @@ over-btn a i {
     padding: 14px 20px;
     font-family: pb;
     font-size: 16px;
-    color: #49c100;
+    color: #8601c3;
     background: white;
     text-align: center;
     border-radius: 50px;
@@ -1387,7 +1387,7 @@ over-btn a i {
 }
 
 .price-table a:hover {
-    background: #68984c;
+    background: #c65cf7;
     color: white;
 }
 
@@ -1396,7 +1396,7 @@ over-btn a i {
 }
 
 .gold-bg2 a {
-    background: #68984c;
+    background: #c65cf7;
     color: white;
 }
 
@@ -1415,7 +1415,7 @@ over-btn a i {
     right: -280px;
     width: 800px;
     height: 800px;
-    border: 80px solid #49c100;
+    border: 80px solid #8601c3;
     border-radius: 50%;
     z-index: -1;
     -webkit-box-shadow: 0 25px 60px rgba(0, 0, 0, .67), inset 0 25px 60px rgba(0, 0, 0, .67);
@@ -1445,7 +1445,7 @@ over-btn a i {
 }
 
 .comment p i {
-    color: #68984c;
+    color: #c65cf7;
     font-size: 22px;
     padding: 0 3px;
 }
@@ -1456,8 +1456,8 @@ over-btn a i {
 }
 
 .user-img img {
-    background: #68984c;
-    border: 2px solid #68984c;
+    background: #c65cf7;
+    border: 2px solid #c65cf7;
     border-radius: 50%;
 }
 
@@ -1495,11 +1495,11 @@ over-btn a i {
 }
 
 .faq-icon i {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .contact-icon i {
-    color: #68984c;
+    color: #c65cf7;
 
 }
 
@@ -1548,7 +1548,7 @@ textarea:-ms-input-placeholder {
     padding: 15px 40px;
     color: white;
     font-family: pb;
-    background: #68984c;
+    background: #c65cf7;
     border-radius: 50px;
     font-size: 18px;
     border: none;
@@ -1570,7 +1570,7 @@ textarea:-ms-input-placeholder {
 }
 
 .card-body {
-    background: #49c100;
+    background: #8601c3;
     color: #ccc;
     padding: 26px 40px;
     line-height: 28px;
@@ -1582,14 +1582,14 @@ textarea:-ms-input-placeholder {
 }
 
 .btn-link {
-    color: #68984c;
+    color: #c65cf7;
     font-family: pb;
 }
 
 .btn-link:hover,
 .btn-link:focus {
     text-decoration: none;
-    color: #68984c;
+    color: #c65cf7;
 }
 
 input::placeholder,
@@ -1647,7 +1647,7 @@ textarea::placeholder {
 }
 
 .blog-item-txt a {
-    color: #68984c;
+    color: #c65cf7;
     font-size: 17px;
     font-family: pb;
     padding-top: 5px;
@@ -1665,9 +1665,9 @@ textarea::placeholder {
 
 .search-btn {
     width: 60px;
-    background: #68984c;
+    background: #c65cf7;
     color: white;
-    border: 1px solid #68984c;
+    border: 1px solid #c65cf7;
 }
 
 /*===========================
@@ -1680,7 +1680,7 @@ textarea::placeholder {
 
 .sub-main {
     padding: 30px 0;
-    background: #68984c;
+    background: #c65cf7;
     border-radius: 50px;
 }
 
@@ -1696,7 +1696,7 @@ textarea::placeholder {
     padding: 15px 25px;
     border-radius: 50px;
     font-family: pb;
-    color: #68984c;
+    color: #c65cf7;
     font-size: 18px;
 }
 
@@ -1731,7 +1731,7 @@ textarea::placeholder {
     line-height: 45px;
     text-align: center;
     border-radius: 50%;
-    color: #68984c;
+    color: #c65cf7;
     background: white;
     font-size: 20px;
     margin-right: 13px;
@@ -1741,9 +1741,9 @@ textarea::placeholder {
 }
 
 .footer-social i:hover {
-    background: #68984c;
+    background: #c65cf7;
     color: #fff;
-    border: 1px solid #68984c;
+    border: 1px solid #c65cf7;
 }
 
 .links h3 {
@@ -1767,7 +1767,7 @@ textarea::placeholder {
 }
 
 .links ul li a:hover {
-    color: #68984c;
+    color: #c65cf7;
     padding-left: 10px;
 }
 
@@ -1784,12 +1784,12 @@ textarea::placeholder {
 
 .f-logo {
     font-size: 27px;
-    color: #68984c;
+    color: #c65cf7;
     font-family: pb;
 }
 
 .f-logo:hover {
-    color: #68984c;
+    color: #c65cf7;
 }
 
 .insta-item {
@@ -1845,7 +1845,7 @@ textarea::placeholder {
 =============================*/
 
 #footer-btm {
-    background: #49c100;
+    background: #8601c3;
     border-top: 2px dashed #222;
     padding: 25px 0;
 }
@@ -1858,6 +1858,6 @@ textarea::placeholder {
 }
 
 .fop-btm a {
-    color: #68984c;
+    color: #c65cf7;
     font-family: pb;
 }
